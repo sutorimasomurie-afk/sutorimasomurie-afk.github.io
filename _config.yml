@@ -1,0 +1,14 @@
+title: sutorima dev notes
+description: Small, tested write-ups on Japanese data, dates and logic puzzles, with runnable JavaScript.
+theme: minima
+url: "https://sutorimasomurie-afk.github.io"
+baseurl: ""
+author: sutorima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+minima:
+  social_links:
+    github: sutorimasomurie-afk
+future: true
